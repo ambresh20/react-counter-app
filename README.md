@@ -2,7 +2,7 @@
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/ambresh20/react-tailwind-css-starter-pack.git
+    git clone https://github.com/ambresh20/react-counter-app.git
     ```
 
 1. Install the required packages.
